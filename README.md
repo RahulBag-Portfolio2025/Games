@@ -163,14 +163,22 @@ A 2D game where player needs to hit knives in a rotating circle board without hi
 ## Demo:
 https://github.com/user-attachments/assets/4c654e00-07ec-40b8-8f96-6bb871c05814
 
+# 13. Birdie Bird
+A 2D game which resembles from original game flappy bird where player need to dodge from pipes by tapping. Player can choose from wide variety of birds to play with. Compete everytime to beat your high score.
 
+## Key features:
+- Shop system to play with different birds
+- Implemented score logic system
 
+## Demo:
+https://github.com/user-attachments/assets/3750a68b-cbb2-4ed7-b140-6c12a5143957
 
+# 14. Plane Shooter 2D
+A 2D plane shooter game where player needs to flight against incoming enemy planes and choppers and dodging from enemy firing bullets and survive till the longest.
 
+## Key features:
+- Enemy waves spawning system
+- Player health system
 
-
-
-
-
-
-  
+## Demo:
+https://github.com/user-attachments/assets/afc31473-448e-4be1-97f2-2a85a7186be9  

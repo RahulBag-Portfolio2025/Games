@@ -77,6 +77,20 @@ A replica game of Tic Tac Toe with some extra features such as Multiplayer and A
 ## Demo:
 https://github.com/user-attachments/assets/13923b52-1186-406f-bcce-95848b261401
 
+# 6. Racer Vs Cops
+A 3D hypercasual game where player needs to drive recklessly not to get busted from cops. The more the wanted level rises the more intense the chasing gets.
+
+## Skills:
+- Vibration Haptic Feedback
+
+## Key features:
+- Shop system to buy different cars
+- More cops vehicle when wanted level rises up
+- Screen shake effect and haptic feedback for user
+
+## Demo:
+
+
 
 
 

@@ -107,6 +107,20 @@ A 3D hypercasual game where player needs to drive recklessly not to get busted f
 ## Demo:
 https://github.com/user-attachments/assets/85e4cf0c-5dee-4b75-88f9-b402abfde06e
 
+# 8. Hoop Star Replica
+A 3D hypercasual replica based on Hoop Star game where player needs to hoop on the ball within the stipulated time. The more the hoop gets on the ball the more score player gains. Unlock wide range of hoops and balls from shop.
+
+## Skills:
+- Physics simulation
+- Particles system VFX
+
+## Key features:
+- Physics based simulation
+- Particles VFX and haptic feedback
+
+## Demo:
+
+
 
 
 

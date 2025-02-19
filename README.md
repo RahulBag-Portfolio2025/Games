@@ -119,6 +119,7 @@ A 3D hypercasual replica based on Hoop Star game where player needs to hoop on t
 - Particles VFX and haptic feedback
 
 ## Demo:
+https://github.com/user-attachments/assets/9d6b3f51-5c15-4c17-932a-9ef4b97e5410
 
 
 

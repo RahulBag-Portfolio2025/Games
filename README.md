@@ -76,8 +76,8 @@ A 2D hypercasual game on bursting various types of balloons with pin to earn coi
 - Pins have preview features before buying from shop
 - Integrated Unity Ads
 
-## Demo;
-
+## Demo:
+https://github.com/user-attachments/assets/7408c2fb-f023-4efd-9903-5c08a142b56d
 
 # 6. XO Showdown - Tic Tac Toe
 A replica game of Tic Tac Toe with some extra features such as Multiplayer and AI modes with detailed statistics records.
@@ -106,6 +106,10 @@ A 3D hypercasual game where player needs to drive recklessly not to get busted f
 
 ## Demo:
 https://github.com/user-attachments/assets/85e4cf0c-5dee-4b75-88f9-b402abfde06e
+
+
+
+
 
 
 

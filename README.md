@@ -121,6 +121,19 @@ A 3D hypercasual replica based on Hoop Star game where player needs to hoop on t
 ## Demo:
 https://github.com/user-attachments/assets/9d6b3f51-5c15-4c17-932a-9ef4b97e5410
 
+# 9. Valorant Wiki
+A wikipedia type app to provide the essential data like agents, weapon and map data for the popular 5v5 tactical shooter game Valorant.
+
+## Skills:
+- Rest APIs
+
+## key features:
+- Implemented Rest API to get all the latest data of the game
+- Interactive UI/UX design using Unity's Dotween animations
+
+## Demo:
+https://github.com/user-attachments/assets/b41516bc-9729-49de-aa33-012609ddc550
+
 
 
 

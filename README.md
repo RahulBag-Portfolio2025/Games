@@ -153,6 +153,15 @@ A 3D hypercasual game where player needs to drive it's way along a zigzag path c
 ## Demo:
 https://github.com/user-attachments/assets/eb58139f-907f-4921-a0ca-86ee3d1c0a81
 
+# 12. Knaifu Strike 2D
+A 2D game where player needs to hit knives in a rotating circle board without hitting on other knives. The game starts with given knives to hit all the knives on the board to win the game.
+
+## Key features:
+- Random level generation
+- Implemented Win and lose logic
+
+## Demo:
+
 
 
 

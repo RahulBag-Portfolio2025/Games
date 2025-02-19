@@ -134,6 +134,16 @@ A wikipedia type app to provide the essential data like agents, weapon and map d
 ## Demo:
 https://github.com/user-attachments/assets/b41516bc-9729-49de-aa33-012609ddc550
 
+# 10. Stairs 3D
+A 3D hypercasual game to climb with ball in stairs while avoiding obstacles that are placed in the stairs.
+
+## Key features:
+- Swipe touch controls for mobile device
+- Obstacle spawning using Object Pool method
+
+## Demo:
+
+
 
 
 

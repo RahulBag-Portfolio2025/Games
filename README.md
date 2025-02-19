@@ -63,7 +63,23 @@ A 8bit retro styled platformer game made with Godot using tilemaps inspired by t
 ## Demo:
 https://github.com/user-attachments/assets/c3973a8f-f62b-4292-94b6-316d8c77e321
 
-# 5. XO Showdown - Tic Tac Toe
+# 5. Balloon Burst
+A 2D hypercasual game on bursting various types of balloons with pin to earn coins and unlock even more powefull pins to gain more coins and rewards. Different balloons have different rewards and some are destructive ones upon bursting those will led to game over. So play wisely to gain more coins.
+
+## Skills:
+- Playfab
+- Unity Ads
+
+## Key features:
+- Implemented Leaderboard and login system using Microsoft Playfab
+- Static tutorial for easy and quick walkthrough
+- Pins have preview features before buying from shop
+- Integrated Unity Ads
+
+## Demo;
+
+
+# 6. XO Showdown - Tic Tac Toe
 A replica game of Tic Tac Toe with some extra features such as Multiplayer and AI modes with detailed statistics records.
 
 ## Skills:
@@ -77,7 +93,7 @@ A replica game of Tic Tac Toe with some extra features such as Multiplayer and A
 ## Demo:
 https://github.com/user-attachments/assets/13923b52-1186-406f-bcce-95848b261401
 
-# 6. Racer Vs Cops
+# 7. Racer Vs Cops
 A 3D hypercasual game where player needs to drive recklessly not to get busted from cops. The more the wanted level rises the more intense the chasing gets.
 
 ## Skills:

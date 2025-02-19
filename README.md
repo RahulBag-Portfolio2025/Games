@@ -161,6 +161,7 @@ A 2D game where player needs to hit knives in a rotating circle board without hi
 - Implemented Win and lose logic
 
 ## Demo:
+https://github.com/user-attachments/assets/4c654e00-07ec-40b8-8f96-6bb871c05814
 
 
 
